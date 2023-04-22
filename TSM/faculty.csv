@@ -1,0 +1,12 @@
+Batch_id,Technology,Start_Date,End_Date,No_Of_Days,Venue,No_Of_Participant,Month_Of_Start,1,Java
+1,Java,02-01-2023,31-03-2023,45,Kolkata,60,January,Sirish,Yes
+2,C++,30-12-2022,13-03-2023,60,Kolkata,40,December,Gopal,Yes
+3,C,12-01-2023,13-03-2023,65,Mumbai,40,January,Amrit,Yes
+4,Python,22-01-2023,30-02-2023,40,Kochin,40,January,Prince,Yes/No
+5,AI,12-01-2023,22-02-2023,45,Pune,30,January,Vishal,Yes/No
+7,C++,22-03-2023,24-04-2023,40,Bhopal,20,March,Hunter,Yes/No
+6,Java,20-01-2023,31-03-2023,75,Chennai,10,January,Ammi,Yes
+10,Python,13-03-2023,15-04-2023,40,Chennai,50,March,Mafia,Yes/No
+12,C,12-02-2023,13-03-2023,35,Chennai,40,February,Human,No
+11,Linux,12-02-2023,13-03-2023,35,Gurugram,30,February,Assasin,Yes/No
+13,Java,18-04-2023,14-06-2023,75,Bangalore,120,April,Mohan,Yes
